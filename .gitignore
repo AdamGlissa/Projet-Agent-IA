@@ -1,3 +1,8 @@
 .venv/
 .env
 CLAUDE.md
+logs/
+output/
+eval/results/
+__pycache__/
+data/
