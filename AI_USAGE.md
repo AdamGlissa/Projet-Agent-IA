@@ -46,5 +46,5 @@
 Overall, since this was the start of the project, we all discussed and thought through the project and the choices we wanted to make together.
 
 - **Adam Tazi:** Took charge of drafting the Project Canvas in `README.md` and worked through the questions related to data sources and success criteria (`[commit hash / link]`).
-- **Mustapha Cheikh Abdullahi:** Also contributed to drafting the Project Canvas and focused more specifically on tool selection and architecture choices (`[commit hash / link]`).
+- **Moustapha Cheikh Abdullahi:** Also contributed to drafting the Project Canvas and focused more specifically on tool selection and architecture choices (`[commit hash / link]`).
 - **Mohamed Glissa:** Investigated whether `deepagents` or CrewAI was the better fit for the project and started coding a simple initial architecture (`[commit hash / link]`).
