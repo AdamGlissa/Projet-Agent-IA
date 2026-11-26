@@ -6,3 +6,5 @@ output/
 eval/results/
 __pycache__/
 data/
+cache/
+chroma_db/

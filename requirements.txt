@@ -1,0 +1,4 @@
+# Researcher tools (search_arxiv, index_corpus)
+chromadb>=1.5
+pypdf>=7.1
+ollama>=0.6
