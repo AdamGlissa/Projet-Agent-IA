@@ -4,7 +4,7 @@
 
 | # | Field | Your answer |
 | :--- | :--- | :--- |
-| 1 | Group name, members and private repository URL | **Group 6** : Mustapha Cheikh Abdellahi, Mohamed Glissa, Adam Tazi - 'https://github.com/AdamGlissa/Projet-Agent-IA' |
+| 1 | Group name, members and private repository URL | **Group 6** : Moustapha Cheikh Abdellahi, Mohamed Glissa, Adam Tazi - 'https://github.com/AdamGlissa/Projet-Agent-IA' |
 | 2 | Topic | **Literature review crew** |
 | 3 | Target user | Master/PhD students, R&D engineers, and researchers starting a new research topic or writing a state-of-the-art document. |
 | 4 | Problem and current pain | Searching arXiv, filtering relevant papers, reading a lot of abstracts and PDFs then synthesizing a structured and cited state of the art takes a lot of time (days of fastidious manual work). |
